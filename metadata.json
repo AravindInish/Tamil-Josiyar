@@ -1,0 +1,6 @@
+{
+  "name": "Tamil Jathagam",
+  "description": "Traditional South Indian style Vedic and Tamil Jathagam horoscope calculator with astronomical ephemeris, Rasi (D1), Navamsa (D9), Dasamsa (D10) charts, comprehensive Life Overview, Vimshottari Dasha, Yogas, and Doshas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
